@@ -34,7 +34,7 @@ npx cypress run
 ---
 
 ## 🔍 Testes de API
-Os testes de API estão localizados na pasta `cypress/integration/api/` e foram implementados utilizando Cypress. O exemplo abaixo demonstra um teste de requisição GET para buscar um produto via API e validar a resposta.
+Os testes de API estão localizados na pasta `cypress/api/` e foram implementados utilizando Cypress. O exemplo abaixo demonstra um teste de requisição GET para buscar um produto via API e validar a resposta.
 ```javascript
 describe('Advantage Online Shopping - Demo', () => {
   it('Deve buscar um produto via API e validar a resposta', () => {
