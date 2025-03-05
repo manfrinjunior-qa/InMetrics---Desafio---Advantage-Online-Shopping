@@ -1,4 +1,4 @@
-# InMetrics_Desafio_Advantage_Online_Shopping
+# InMetrics_Desafio_AdvantageOnlineShopping
 
 ## 📌 Sobre o Desafio
 Este repositório contém os testes automatizados realizados com Cypress para validação de cenários de uma aplicação web e testes de API.
